@@ -6,7 +6,7 @@ First, install this plugin to your `plugins` folder. From the root directory...
 
 ```
 cd wp-content\plugins\
-git clone https://github.com/gumz11/dev-portfolio.git
+git clone https://github.com/ajgmez1/dev-portfolio.git
 ```
 
 Next, define a Wordpress page with the slug `dev-portfolio`. 
